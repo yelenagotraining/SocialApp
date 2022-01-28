@@ -39,6 +39,11 @@
 * ng serve
 * ng add ngx-bootstrap
 
+
 ### Adding the create token logic
 Install System.Identity.Models.Token.JWT
 In the concrete implimentation of the TokenService include SymmeticSecurityKey 
+
+#### Adding CORS
+
+### Adding HttpClient to Angular. 
